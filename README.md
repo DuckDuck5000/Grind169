@@ -157,11 +157,11 @@ Filters:
 ---
 ## Binary Tree
 
- - [ ] 1. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+ - [X] 1. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 
- - [ ] 2. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
+ - [X] 2. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 
- - [ ] 3. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
+ - [X] 3. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 
  - [ ] 4. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 
@@ -171,19 +171,19 @@ Filters:
 
  - [ ] 7. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)
 
- - [ ] 8. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
+ - [X] 8. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 
  - [ ] 9. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 
  - [ ] 10. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
 
- - [ ] 11. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
+ - [] 11. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 
  - [ ] 12. [Path Sum II](https://leetcode.com/problems/path-sum-ii)
 
  - [ ] 13. [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree)
 
- - [ ] 14. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)
+ - [X] 14. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)
 
  - [ ] 15. [Path Sum III](https://leetcode.com/problems/path-sum-iii)
 
