@@ -126,11 +126,11 @@ Filters:
 ---
 ## String
 
- - [ ] 1. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+ - [x] 1. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 
- - [ ] 2. [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+ - [x] 2. [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 
- - [ ] 3. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
+ - [x] 3. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 
  - [ ] 4. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 
@@ -138,11 +138,11 @@ Filters:
 
  - [ ] 6. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)
 
- - [ ] 7. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+ - [x] 7. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 
- - [ ] 8. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
+ - [x] 8. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 
- - [ ] 9. [Group Anagrams](https://leetcode.com/problems/group-anagrams)
+ - [x] 9. [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 
  - [ ] 10. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)
 
