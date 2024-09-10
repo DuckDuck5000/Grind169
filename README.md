@@ -15,29 +15,29 @@ Filters:
 
  - [x] 1. [Two Sum](https://leetcode.com/problems/two-sum)
 
- - [ ] 2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+ - [X] 2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 
- - [ ] 3. [Majority Element](https://leetcode.com/problems/majority-element)
+ - [X] 3. [Majority Element](https://leetcode.com/problems/majority-element)
 
- - [ ] 4. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+ - [X] 4. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 
  - [ ] 5. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
 
- - [ ] 6. [Move Zeroes](https://leetcode.com/problems/move-zeroes)
+ - [X] 6. [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 
- - [ ] 7. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
+ - [X] 7. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
 
- - [ ] 8. [Insert Interval](https://leetcode.com/problems/insert-interval)
+ - [X] 8. [Insert Interval](https://leetcode.com/problems/insert-interval)
 
- - [ ] 9. [3Sum](https://leetcode.com/problems/3sum)
+ - [X] 9. [3Sum](https://leetcode.com/problems/3sum)
 
- - [ ] 10. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
+ - [X] 10. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
 
- - [ ] 11. [Combination Sum](https://leetcode.com/problems/combination-sum)
+ - [X] 11. [Combination Sum](https://leetcode.com/problems/combination-sum)
 
  - [ ] 12. [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 
- - [ ] 13. [Sort Colors](https://leetcode.com/problems/sort-colors)
+ - [X] 13. [Sort Colors](https://leetcode.com/problems/sort-colors)
 
  - [ ] 14. [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 
