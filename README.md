@@ -339,19 +339,19 @@ Filters:
 ---
 ## Heap
 
- - [ ] 1. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)
+ - [X] 1. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)
 
  - [ ] 2. [Task Scheduler](https://leetcode.com/problems/task-scheduler)
 
- - [ ] 3. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)
+ - [X] 3. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)
 
- - [ ] 4. [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)
+ - [X] 4. [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)
 
- - [ ] 5. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+ - [X] 5. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 
  - [ ] 6. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream)
 
- - [ ] 7. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+ - [X] 7. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
  - [ ] 8. [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists)
 
