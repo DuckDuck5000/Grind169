@@ -196,9 +196,9 @@ Filters:
 ---
 ## Binary Search
 
- - [ ] 1. [Binary Search](https://leetcode.com/problems/binary-search)
+ - [X] 1. [Binary Search](https://leetcode.com/problems/binary-search)
 
- - [ ] 2. [First Bad Version](https://leetcode.com/problems/first-bad-version)
+ - [X] 2. [First Bad Version](https://leetcode.com/problems/first-bad-version)
 
  - [ ] 3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 
@@ -223,13 +223,13 @@ Filters:
 
  - [ ] 4. [Course Schedule](https://leetcode.com/problems/course-schedule)
 
- - [ ] 5. [Number of Islands](https://leetcode.com/problems/number-of-islands)
+ - [X] 5. [Number of Islands](https://leetcode.com/problems/number-of-islands)
 
  - [ ] 6. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
 
  - [ ] 7. [Accounts Merge](https://leetcode.com/problems/accounts-merge)
 
- - [ ] 8. [Word Search](https://leetcode.com/problems/word-search)
+ - [X] 8. [Word Search](https://leetcode.com/problems/word-search)
 
  - [ ] 9. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)
 
@@ -260,15 +260,15 @@ Filters:
 ---
 ## Binary Search Tree
 
- - [ ] 1. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+ - [X] 1. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 
  - [ ] 2. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
 
- - [ ] 3. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+ - [X] 3. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 
- - [ ] 4. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
+ - [X] 4. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 
- - [ ] 5. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst)
+ - [X] 5. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst)
 
 ---
 ## Hash Table
