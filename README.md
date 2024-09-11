@@ -95,15 +95,15 @@ Filters:
 ---
 ## Linked List
 
- - [ ] 1. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+ - [x] 1. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 
- - [ ] 2. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+ - [x] 2. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 
- - [ ] 3. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+ - [x] 3. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 
- - [ ] 4. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
+ - [x] 4. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 
- - [ ] 5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
+ - [X] 5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
 
  - [ ] 6. [LRU Cache](https://leetcode.com/problems/lru-cache)
 
@@ -260,9 +260,9 @@ Filters:
 ---
 ## Binary Search Tree
 
- - [X] 1. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+ - [] 1. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 
- - [ ] 2. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
+ - [X] 2. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
 
  - [X] 3. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 
