@@ -21,7 +21,7 @@ Filters:
 
  - [X] 4. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 
- - [ ] 5. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
+ - [x] 5. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
 
  - [X] 6. [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 
@@ -35,48 +35,48 @@ Filters:
 
  - [X] 11. [Combination Sum](https://leetcode.com/problems/combination-sum)
 
- - [ ] 12. [Merge Intervals](https://leetcode.com/problems/merge-intervals)
+ - [x] 12. [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 
  - [X] 13. [Sort Colors](https://leetcode.com/problems/sort-colors)
 
- - [ ] 14. [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+ - [x] 14. [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 
- - [ ] 15. [Gas Station](https://leetcode.com/problems/gas-station)
+ - [x] 15. [Gas Station](https://leetcode.com/problems/gas-station)
 
- - [ ] 16. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
+ - [x] 16. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 
- - [ ] 17. [Rotate Array](https://leetcode.com/problems/rotate-array)
+ - [x] 17. [Rotate Array](https://leetcode.com/problems/rotate-array)
 
- - [ ] 18. [Contiguous Array](https://leetcode.com/problems/contiguous-array)
+ - [x] 18. [Contiguous Array](https://leetcode.com/problems/contiguous-array)
 
- - [ ] 19. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
+ - [x] 19. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
 
- - [ ] 20. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
+ - [x] 20. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
 
- - [ ] 21. [3Sum Closest](https://leetcode.com/problems/3sum-closest)
+ - [x] 21. [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 
- - [ ] 22. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
+ - [x] 22. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
 
- - [ ] 23. [Employee Free Time](https://leetcode.com/problems/employee-free-time)
+ - [N\A] 23. [Employee Free Time](https://leetcode.com/problems/employee-free-time) <--- Premium
 
- - [ ] 24. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
+ - [x] 24. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
 
 ---
 ## Stack
 
- - [ ] 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+ - [x] 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 
- - [ ] 2. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
+ - [x] 2. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
 
- - [ ] 3. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)
+ - [x] 3. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)
 
- - [ ] 4. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
+ - [x] 4. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 
- - [ ] 5. [Min Stack](https://leetcode.com/problems/min-stack)
+ - [x] 5. [Min Stack](https://leetcode.com/problems/min-stack)
 
- - [ ] 6. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
+ - [x] 6. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
 
- - [ ] 7. [Decode String](https://leetcode.com/problems/decode-string)
+ - [x] 7. [Decode String](https://leetcode.com/problems/decode-string)
 
  - [ ] 8. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision)
 
@@ -215,52 +215,52 @@ Filters:
 ---
 ## Graph
 
- - [ ] 1. [Flood Fill](https://leetcode.com/problems/flood-fill)
+ - [x] 1. [Flood Fill](https://leetcode.com/problems/flood-fill)
 
  - [ ] 2. [01 Matrix](https://leetcode.com/problems/01-matrix)
 
- - [ ] 3. [Clone Graph](https://leetcode.com/problems/clone-graph)
+ - [x] 3. [Clone Graph](https://leetcode.com/problems/clone-graph)
 
- - [ ] 4. [Course Schedule](https://leetcode.com/problems/course-schedule)
+ - [x] 4. [Course Schedule](https://leetcode.com/problems/course-schedule)
 
  - [X] 5. [Number of Islands](https://leetcode.com/problems/number-of-islands)
 
- - [ ] 6. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
+ - [x] 6. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
 
- - [ ] 7. [Accounts Merge](https://leetcode.com/problems/accounts-merge)
+ - [x] 7. [Accounts Merge](https://leetcode.com/problems/accounts-merge)
 
  - [X] 8. [Word Search](https://leetcode.com/problems/word-search)
 
  - [ ] 9. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)
 
- - [ ] 10. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)
+ - [x] 10. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)
 
- - [ ] 11. [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food)
+ - [x] 11. [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food)
 
- - [ ] 12. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)
+ - [x] 12. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)
 
- - [ ] 13. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii)
+ - [x] 13. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii)
 
- - [ ] 14. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
+ - [x] 14. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)
 
- - [ ] 15. [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves)
+ - [x] 15. [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves)
 
- - [ ] 16. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
+ - [x] 16. [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
 
- - [ ] 17. [Word Ladder](https://leetcode.com/problems/word-ladder)
+ - [x] 17. [Word Ladder](https://leetcode.com/problems/word-ladder)
 
- - [ ] 18. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
+ - [x] 18. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
 
- - [ ] 19. [Word Search II](https://leetcode.com/problems/word-search-ii)
+ - [x] 19. [Word Search II](https://leetcode.com/problems/word-search-ii)
 
- - [ ] 20. [Alien Dictionary](https://leetcode.com/problems/alien-dictionary)
+ - [x] 20. [Alien Dictionary](https://leetcode.com/problems/alien-dictionary)
 
- - [ ] 21. [Bus Routes](https://leetcode.com/problems/bus-routes)
+ - [x] 21. [Bus Routes](https://leetcode.com/problems/bus-routes)
 
 ---
 ## Binary Search Tree
 
- - [] 1. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+ - [x] 1. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 
  - [X] 2. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
 
