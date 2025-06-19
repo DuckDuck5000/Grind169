@@ -1,7 +1,7 @@
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        
 
+        
         def checkHeight(root):
             if not root: return 0
 
