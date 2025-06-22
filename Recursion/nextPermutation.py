@@ -32,30 +32,25 @@ Approach:
 """
 
 class Solution:
-    def nextPermutation(self, nums: list[int]) -> None:
+    def nextPermutation(self, nums: List[int]) -> None:
         """
-        Modifies nums in-place to next permutation
+        Do not return anything, modify nums in-place instead.
         """
-        # Find first decreasing element from right
-        i = len(nums) - 2
-        while i >= 0 and nums[i] >= nums[i + 1]:
-            i -= 1
-            
-        if i >= 0:
-            # Find smallest number larger than nums[i] from right
-            j = len(nums) - 1
-            while j > i and nums[j] <= nums[i]:
-                j -= 1
-            # Swap numbers
-            nums[i], nums[j] = nums[j], nums[i]
+
+        inversionPoint = len(nums)-2
         
-        # Reverse suffix
-        left = i + 1
-        right = len(nums) - 1
-        while left < right:
-            nums[left], nums[right] = nums[right], nums[left]
-            left += 1
-            right -= 1
+        while inversionPoint >= 0 and nums[inversionPoint] >= nums[inversionPoint+1]:
+            inversionPoint -= 1
+        
+        if inversionPoint != -1:
+            for i in reversed(range(inversionPoint+1, len(nums))):
+            
+                if nums[i] > nums[inversionPoint]:
+                
+                    nums[inversionPoint], nums[i] = nums[i], nums[inversionPoint]
+                    break
+        nums[inversionPoint +1 :] = reversed(nums[inversionPoint + 1:])
+            
 
 def run_tests():
     """Test cases with assertions"""
